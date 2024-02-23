@@ -6,6 +6,7 @@
 `npx create-expo-app <project Name>`
 
 **To run** 
+
 `npx expo start`
 
 **Components**
@@ -19,3 +20,9 @@
 8. Statusbar
 9. ActivityIndicator
 10. Alert
+
+
+**Styling Approaches**
+
+1. Inline Style
+2. StyleSheet APIs
